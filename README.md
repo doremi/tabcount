@@ -38,6 +38,14 @@ var APIKey = "xxx";     // Fill in your API Key in the previous step 4.
 ![screenshot](https://raw.githubusercontent.com/doremi/tabcount/master/screenshot.png)
 
 
+Feature plan
+============
+
+1. Save data in local.
+2. Plot history.
+ 
+Any ideas are welcome, please send pull request, thank you!
+
 Reference
 =========
 
