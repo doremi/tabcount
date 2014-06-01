@@ -41,7 +41,7 @@ var APIKey = "xxx";     // Fill in your API Key in the previous step 4.
 
 #### View history
 
-Just click this extension's icon, it will show the latest 7 days history.
+Just click this extension's icon, it will show the history of latest 7 days.
 ![history](https://raw.githubusercontent.com/doremi/tabcount/master/screenshot-history.png)
 
 
