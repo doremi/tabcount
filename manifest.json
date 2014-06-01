@@ -4,11 +4,14 @@
     "version": "0.0.1",
     "background": { "scripts": ["jquery-1.11.1.min.js", "background.js"] },
     "permissions": ["tabs", "alarms"],
+    "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google.com; object-src 'self'",
     "browser_action":
     {
         "default_icon": {
             "19": "tomato-19.png",
             "38": "tomato-38.png"
-        }
+        },
+        "default_popup":"popup.html",
+        "default_title":"Tab Count History"
     }
 }
