@@ -5,6 +5,8 @@ A Google Chrome extension that can calculate the number of times you open the we
 
 ![screenshot](https://raw.githubusercontent.com/doremi/tabcount/master/screenshot.png)
 
+![history](https://raw.githubusercontent.com/doremi/tabcount/master/screenshot-history.png)
+
 Usage
 ========
 
@@ -37,12 +39,17 @@ var APIKey = "xxx";     // Fill in your API Key in the previous step 4.
 5. You may see the extension works.
 ![screenshot](https://raw.githubusercontent.com/doremi/tabcount/master/screenshot.png)
 
+#### View history
+
+Just click this extension's icon, it will show the latest 7 days history.
+![history](https://raw.githubusercontent.com/doremi/tabcount/master/screenshot-history.png)
+
 
 Feature plan
 ============
 
 1. Save data in local.
-2. Plot history.
+2. Plot history with more options.
  
 Any ideas are welcome, please send pull request, thank you!
 
